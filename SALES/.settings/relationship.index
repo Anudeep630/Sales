@@ -598,10 +598,6 @@
     "version" : "Latest",
     "type" : "routine"
   }, {
-    "id" : "MDM",
-    "version" : "Latest",
-    "type" : "routine"
-  }, {
     "id" : "Mathematical",
     "version" : "Latest",
     "type" : "routine"
@@ -643,10 +639,6 @@
     "type" : "schema"
   }, {
     "id" : "_i9XjUOS2EeaaN4bqKCHblw - CustomerMetadata",
-    "version" : "Latest",
-    "type" : "schema"
-  }, {
-    "id" : "_sgwsgOSzEeaaN4bqKCHblw - Shopmetadata",
     "version" : "Latest",
     "type" : "schema"
   } ]
